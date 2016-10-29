@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "%cd%\ADBulkMover.ps1"
