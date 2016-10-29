@@ -16,4 +16,6 @@ Selections 1 and 2 are the core functions of the utiltiy. Selections 3, 4, 5, an
 
 Option 5 is great for when you have large quantities of users in AD groups and you want to do some analysis on group membership. You'll be asked to supply the group name and the target path for the file export. You can export as either csv or txt then do your analysis in Excel.
 
-If you have any questions about ADBulkMover.ps1, just let me know.
+Configuration
+---------------------------------------------
+To run the utility, you'll need to have all files in the same directory. Start the utility by running the CallADBulkMover.bat with an account that has permissions to read and write to Active Directory. 
